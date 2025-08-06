@@ -10,7 +10,7 @@ An interactive Excel dashboard analyzing product, category, and regional sales p
 - Combination charts
 
 ## 📊 Dashboard Preview
-![Dashboard Screenshot](images/excel_dashboard.png)
+![Dashboard Screenshot](image/excel_dashboard.png)
 
 ## ✅ Key Insights
 - Sales grew **19.6%** compared to the previous year, with profit up **11.3%**
