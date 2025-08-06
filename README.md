@@ -25,7 +25,7 @@ An interactive Excel dashboard analyzing product, category, and regional sales p
 │ └── sales_dashboard.xlsx # interactive Excel dashboard
 ├── data/
 │ └── sales_data.csv # raw dataset
-├── images/
+├── image/
 │ └── sales_dashboard.png # dashboard preview
 └── README.md
 ```
