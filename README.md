@@ -21,10 +21,10 @@ An interactive Excel dashboard analyzing product, category, and regional sales p
 
 ## 📂 Project Structure
 ```
-├── data/
-│ └── sales_data.csv # raw dataset
 ├── dashboard/
 │ └── sales_dashboard.xlsx # interactive Excel dashboard
+├── data/
+│ └── sales_data.csv # raw dataset
 ├── images/
 │ └── sales_dashboard.png # dashboard preview
 └── README.md
